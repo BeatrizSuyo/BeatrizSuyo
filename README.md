@@ -1,8 +1,8 @@
 ### Hi I'm Beatriz 🌟
 I'm a Front-End development student at Laboratoria 💛.
-- 🔭 I’m currently working working with JavaScript, CSS, HTML, Figma.
+- 🔭 I’m currently working with JavaScript, CSS, HTML, Figma.
 - 📫 How to reach me: beatrizsuyo@gmail.com  | Linkedin: https://www.linkedin.com/in/beatrizsuyo
-- ⚡ Fun fact: ...I love chocolate 🍫.
+- ⚡ Fun fact: I love chocolate 🍫.
 <!--
 **BeatrizSuyo/BeatrizSuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
