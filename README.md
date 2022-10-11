@@ -4,9 +4,7 @@ I'm a Front-End development student at Laboratoria 💛.
 - 🌱 I’m currently learning Firebase, Node.
 - 📫 How to reach me: beatrizsuyo@gmail.com  | Linkedin: https://www.linkedin.com/in/beatrizsuyo
 - ⚡ Fun fact: I love chocolate 🍫.
-
  <br>
-<br><br>
 <h3 align="center">Languages and Tools:</h3><br><br>
   <div align="center">
   
