@@ -1,5 +1,8 @@
 ### Hi   I'm Beatriz 🌟
 Soy desarrollador web front-end en Laboratoria  💛
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Dev+💛;Full stack+Dev8en progress)+🤗;&center=true&width=500&height=50"></a>
+</p>
 - 🔭  Actualmente estoy trabajando con JavaScript, CSS, HTML, Figma,Bootstrap,SAAS.
 - 🌱  Aprendiendo Firebase, Node,React.
 - 📫  Encuentrame: beatrizsuyo@gmail.com  | Linkedin: https://www.linkedin.com/in/beatrizsuyo
