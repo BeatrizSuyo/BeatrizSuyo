@@ -1,7 +1,7 @@
-### Hi I'm Beatriz 🌟
+### Hi   I'm Beatriz 🌟
 Soy desarrollador web front-end en Laboratoria  💛
-- 🔭 Actualmente estoy trabajando con JavaScript, CSS, HTML, Figma.
-- 🌱 Aprendiendo Firebase, Node,React.
+- 🔭  Actualmente estoy trabajando con JavaScript, CSS, HTML, Figma,Bootstrap,SAAS.
+- 🌱  Aprendiendo Firebase, Node,React.
 - 📫  Encuentrame: beatrizsuyo@gmail.com  | Linkedin: https://www.linkedin.com/in/beatrizsuyo
 - ⚡  I love chocolate 🍫.
  <br>
