@@ -1,5 +1,6 @@
 ### Hi   I'm Beatriz 🌟
 Soy desarrollador web front-end en Laboratoria  💛
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Dev+💛;Full stack+Dev8en progress)+🤗;&center=true&width=500&height=50"></a>
 </p>
