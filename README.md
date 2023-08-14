@@ -7,11 +7,11 @@ Soy desarrollador web front-end en Laboratoria  💛
 </p>
 -->
 <br>
-- 🔭  Actualmente estoy trabajando con JavaScript, CSS, HTML, Figma,Bootstrap,SAAS.
-- 🌱  Aprendiendo Firebase, Node,React.
-- 📫  Encuentrame: beatrizsuyo@gmail.com  | Linkedin: https://www.linkedin.com/in/beatrizsuyo
-- ⚡  I love chocolate 🍫.
- <br>
+-  🔭  Actualmente estoy trabajando con JavaScript, CSS, HTML,Figma,Bootstrap,SAAS.
+-  🌱  Aprendiendo Firebase, Node,React.
+-  📫  Encuentrame: beatrizsuyo@gmail.com  | Linkedin: https://www.linkedin.com/in/beatrizsuyo
+-  ⚡  I love chocolate 🍫.
+  <br>
 <h3 align="center">Languages and Tools:</h3><br><br>
   <div align="center">
   
