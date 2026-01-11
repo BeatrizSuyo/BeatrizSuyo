@@ -1,3 +1,42 @@
+## 👋 Hi, I'm Beatriz ✨  
+
+Frontend Developer | Cloud Trainee  
+Ingeniera Química en transición al sector tecnológico 🚀  
+
+Desarrolladora frontend con experiencia en **JavaScript, React, HTML y CSS**, formación en **Cloud (AWS / OCI)** y base sólida en **pensamiento analítico y trabajo ágil**.  
+Me interesa seguir creciendo como **Developer TI Junior**, aportando en proyectos tecnológicos y soluciones digitales escalables.
+
+---
+
+### 💻 Tech Stack
+- **Frontend:** JavaScript | React | HTML | CSS | Bootstrap  
+- **UI/UX:** Figma (wireframes y prototipos)  
+- **Cloud:** AWS (EC2, S3, IAM, VPC) | OCI Foundations  
+- **Tools:** Git | GitHub | Scrum | Trello  
+
+---
+
+### 🌱 Actualmente
+- Profundizando en **React y JavaScript**
+- Reforzando conocimientos en **Cloud & arquitectura básica**
+- Buscando oportunidades **Junior / Bootcamp TI**
+
+---
+
+### 📫 Contacto
+- ✉️ Email: beatrizxx@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/beatrizxx  
+
+---
+
+### ⚡ Fun fact
+I love chocolate 🍫
+
+
+
+
+
+
 ### Hi   I'm Beatriz 🌟
 Soy desarrollador web front-end en Laboratoria  💛
 <br>
